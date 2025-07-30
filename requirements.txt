@@ -5,3 +5,7 @@ plotly
 numpy
 streamlit
 plotly_express
+wordcloud
+wordcloud_generator
+seaborn
+matplotlib
